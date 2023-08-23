@@ -7,7 +7,10 @@ The ESP8266 runs a web server which handles all of the web UI requests (UI in "i
 
 - Set up your ESP-01 network config (fixed IP) , SSID+pass and timezone.
 
-- Using any device such as PC, tablet, phone connected to the local network (i.e. your home router) open a web browser and put the following address: **192.168.0.15** (NOTE: this might differ between your chosen network config and mine).
+- Using any device such as PC, tablet, phone connected to the local network (i.e. your home router)
+open a web browser and put the following address:
+**192.168.0.15**
+(NOTE: this might differ between **your chosen network config** and mine).
 
 - The user interface explains itself. Select which days and times the light will turn on. Set the max brightness and the decay time (the higher, the slower the lamp will turn on till reaching the desired brightness).
 
